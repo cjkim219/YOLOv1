@@ -1,2 +1,2 @@
 # YOLOv1
-Study
+YOLOv1
